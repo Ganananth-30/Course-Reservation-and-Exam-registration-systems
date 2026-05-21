@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230070
+# Name: H GANANANTH
+# Date: 20-05-2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="964" height="851" alt="image" src="https://github.com/user-attachments/assets/caab90b8-349c-4b8e-89ec-faa81c0613d3" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1193" height="831" alt="image" src="https://github.com/user-attachments/assets/9f4cc37b-bd67-4d11-ad89-7fa5d92627f3" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1033" height="713" alt="image" src="https://github.com/user-attachments/assets/fe2fed99-cbc2-4a73-889d-0a389a3ebe43" />
 
 
 
@@ -79,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1089" height="618" alt="image" src="https://github.com/user-attachments/assets/028f5ae4-1b4e-4bae-9889-6285a682b915" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="686" height="897" alt="image" src="https://github.com/user-attachments/assets/399f0ad3-9803-42dc-9e05-61c835151b0a" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="986" height="764" alt="image" src="https://github.com/user-attachments/assets/ca9bd5cd-ecb5-4767-8aba-a17717156201" />
 
 
 
